@@ -70,7 +70,7 @@ The DNA Count Web App is an interactive and data-driven application developed in
    ```bash
    pip install -r requirements.txt
   
-4. To Launch the app:
+4. **To Launch the app:**
    ```bash
    streamlit run app.py
 
